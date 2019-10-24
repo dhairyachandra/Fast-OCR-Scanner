@@ -13,13 +13,16 @@ it's very troublesome to transcript it by the keyboard.
 But you can do it very easily by Fast OCR Scanner
 It's possible to record contents immediately!
 
-###Features of Fast OCR Scanner
+### Features of Fast OCR Scanner
 
-● World highest speed reading
+- World highest speed reading
 
-● World first real time scanner
+- World first real time scanner
 
-● Supports handwriting
+- Supports handwriting
 
-● You can copy text in Clipboard and Paste it anywhere !
+- You can copy text in Clipboard and Paste it anywhere !
 
+### Download Now
+
+**PlayStore**:  [Fast OCR Scanner](https://play.google.com/store/apps/details?id=suvysoft.com.fastocrscanner&hl=en_US)
