@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/dc/Desktop/Programs/Android Projects/FastOCRScanner/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/dc/Desktop/Programs/Android Projects/FastOCRScanner/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_72abd47f8e345e78c3afd45f23238796715e9a86/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dc/Desktop/Programs/Android Projects/FastOCRScanner/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f08b614d256574598b773813e12c813ad937c5a1">
+        <dex dex="/Users/dc/Desktop/Programs/Android Projects/FastOCRScanner/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_1b7dfca54c9c04c3c5acc8ded437ce1078d81bff/classes.dex" />
+    </item>
+
+</items>

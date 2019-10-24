@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="suvysoft.com.fastocrscanner.MainActivity"
+    android:id="@+id/drawerLayout"
+    android:orientation="vertical">
+
+
+    <SurfaceView
+        android:id="@+id/surface_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true">
+    <TextView
+        android:id="@+id/text_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="No Text"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="30sp"
+        android:textSize="20sp"
+        android:layout_margin="10sp"
+        android:textColor="@android:color/white" />
+    </ScrollView>
+
+
+    <Button
+        android:id="@+id/clear"
+        android:layout_alignParentRight="true"
+        android:layout_width="70sp"
+        android:layout_height="70sp"
+        android:layout_marginTop="40sp"
+        android:layout_marginRight="10sp"
+        android:background="@drawable/del"/>
+    <Button
+        android:id="@+id/copy"
+        android:layout_marginTop="30sp"
+        android:layout_width="70sp"
+        android:layout_height="70sp"
+        android:layout_below="@+id/clear"
+        android:layout_marginRight="10sp"
+        android:layout_alignParentRight="true"
+        android:background="@drawable/copy"/>
+
+
+</RelativeLayout>
+
+
